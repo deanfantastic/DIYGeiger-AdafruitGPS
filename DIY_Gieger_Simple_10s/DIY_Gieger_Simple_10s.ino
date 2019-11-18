@@ -263,8 +263,3 @@ void GetEvent(){   // ISR triggered for each new event (count)
   dispCnt++;
 //  lastCnt++;
 }
-
-
-
-
-
